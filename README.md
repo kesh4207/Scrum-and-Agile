@@ -39,6 +39,8 @@ Meeting include;
 
 ### Backlogging
 
+![backlog](https://scrumorg-website-prod.s3.amazonaws.com/drupal/inline-images/2017-03/SprintBacklog_0.png)
+
 A meeting for the ‘sprint meeting’. This is akin to a plan to finalise the details of the problem and examining if certain part require more information. This is done to prevent time being wasted in the splint planning. 
 Product backlog is prioritized list of work for the development team, where the most important are shown at the top. This is provided from the team’s roadmap.
 Teams roadmap and requirements provide foundation for the product backlog. Roadmap initiative are broken down into several epics and each epic has several requirement and user stories. Product owner uses user stories to produce a list for the development team. 

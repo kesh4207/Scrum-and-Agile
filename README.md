@@ -42,6 +42,7 @@ Product owner prioritization is influenced by;
 *	**Implementation Complexity**
 *	**Urgency of getting feedback**
 *	**Symbiotic relationship between work items.**
+
 This keeps the team agile, as product owner are continuously updating this, and this is a reliable sharable source for all developers. This can help developer teams keep updates on the work items and gives team member complete clarity one what needs to be done. It allows for the team to challenge  the prioritizing of items  whereby, doing this fosters an environment where everyone  can both express their points and have the same mindset on the program.
 ### Let’s Review the Sprints!
  A time for individual members to show of their work and focus on their achievements. Allows them to present to the team their implementation and makes them feel good about themselves. This is a consensus of progress and achievements within the team. Demonstrate feature and orientate development team to doing things that add value.

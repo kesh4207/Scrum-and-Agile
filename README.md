@@ -13,6 +13,8 @@ This allows developers or engineers to break down problems into ‘sprints’, w
 
 ### Sprints are at the very heart of scrum
 
+![image of sprint](https://habrastorage.org/getpro/habr/post_images/d2a/90d/251/d2a90d2514c3f9649b0c2005730e872c.jpg)
+
 Sprint planning is carrying out a meeting to form a sprint where you   decide on both the criteria and time-box of the sprint. Essentially, ‘Sprint planning kicks of a sprint by setting the agenda and the focus’. This is important because bad sprint planning can lead to unrealistic expectations and time-frames, which will prevent keeping the team motivated and focused. 
 
 The process involves:

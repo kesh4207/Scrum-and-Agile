@@ -59,6 +59,7 @@ Product owner prioritization is influenced by;
 
 ## Scrum Master vs Product Manager
 A scrum Master is essentially a non-technical project manager. Both focus on how they are going to get their work done. However, a product manager does this through time frames and reports on progress from a place of control in the traditional sense. A scrum master almost works as a team member by helping the team in collaborating and organisation. They also help in establishing communications between the product owners and developers and helps in focusing on getting task done.
+![scrum vs product manager](https://www.google.co.uk/url?sa=i&url=https%3A%2F%2Fwww.softwaretestinghelp.com%2Fscrum-roles-responsibilities%2F&psig=AOvVaw0cH2-J0YO8q_jsm-cFxlJ5&ust=1589038867608000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPjCt53NpOkCFQAAAAAdAAAAABAD)
 ### Scrums of scrums
 This is a scaled agile technique that offers a way to connect to multiple teams that need to get a project done. The Aim is to coordinate smaller, independent teams. This is done as the larger a team is, the harder it is to communicate so doing this help to meet an aim more easily. All delivering their own goals but allows them to complement to each other. [This involves two or more teams working together for a time to re-negotiate responsibility and encourages organisation](https://www.agilest.org/scaled-agile/scrum-of-scrums/)
 

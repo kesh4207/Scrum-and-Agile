@@ -24,11 +24,11 @@ The process involves:
 
 Meetings are integral to scrum because it allows individuals to demonstrate team work and allows developer team to communicate with the team owner on their updates and problems.
 Meeting include;
-•	Sprint planning- deciding on the goal and agenda for a sprint. Sprint planning must be constrained to 2 hours  of each week of the sprint and this is carried out by the Scrum master.
-•	Daily-Stand-up- Allows developers to provide updates on their progress and this should be contained in a relaxed environment. This allows individuals to demonstrate self-responsibility as they are taking accountability for their own progress. This ensures all the team provides their own involvement in helping to solve the sprint. This should be longer than 15 minutes a day. 
-•	Iteration review- This can be casual or formal. This allows the teams to celebrate their accomplishments, work and allow for feedback. This should be 30-60 minutes a day.
+*	Sprint planning- deciding on the goal and agenda for a sprint. Sprint planning must be constrained to 2 hours  of each week of the sprint and this is carried out by the Scrum master.
+*	Daily-Stand-up- Allows developers to provide updates on their progress and this should be contained in a relaxed environment. This allows individuals to demonstrate self-responsibility as they are taking accountability for their own progress. This ensures all the team provides their own involvement in helping to solve the sprint. This should be longer than 15 minutes a day. 
+*	Iteration review- This can be casual or formal. This allows the teams to celebrate their accomplishments, work and allow for feedback. This should be 30-60 minutes a day.
 
-•	Retrospectives- focus on feedback to problems and implementing & developing solutions that work better for continuous improvements. This helps the team to understand what worked well and what did not.
+*	Retrospectives- focus on feedback to problems and implementing & developing solutions that work better for continuous improvements. This helps the team to understand what worked well and what did not.
 **In short, ‘Agile ceremonies facilitate communication across the team’.**
 
 ### Backlogging
@@ -43,13 +43,13 @@ Product owner prioritization is influenced by;
 *	**Urgency of getting feedback**
 *	**Symbiotic relationship between work items.**
 
-This keeps the team agile, as product owner are continuously updating this, and this is a reliable sharable source for all developers. This can help developer teams keep updates on the work items and gives team member complete clarity one what needs to be done. It allows for the team to challenge  the prioritizing of items  whereby, doing this fosters an environment where everyone  can both express their points and have the same mindset on the program.
+*This keeps the team agile, as product owner are continuously updating this, and this is a reliable sharable source for all developers. This can help developer teams keep updates on the work items and gives team member complete clarity one what needs to be done. It allows for the team to challenge  the prioritizing of items  whereby, doing this fosters an environment where everyone  can both express their points and have the same mindset on the program.*
 ### Let’s Review the Sprints!
  A time for individual members to show of their work and focus on their achievements. Allows them to present to the team their implementation and makes them feel good about themselves. This is a consensus of progress and achievements within the team. Demonstrate feature and orientate development team to doing things that add value.
-•	**what is done and not done** carried out by their product owner
-•	**Demo the work** carried out by the development team. This Allows team to discuss how it works and how it will be used by the user. Really encourages accountability and keeps the team engaged by allowing everyone is to ask questions and helps to provide clarity with small problem to prevent these snowballing into large problems. 
-•	**Review key metrics**- Time to review measurable outcomes. E.g. Has this improved the performance/ 
-•	**Review and revise product backlog** – This involve removing or adding user items to backlog in response to the demos if priorities have changed. The revise focuses on the next sprint meeting.
+1.	**what is done and not done** carried out by their product owner
+2.	**Demo the work** carried out by the development team. This Allows team to discuss how it works and how it will be used by the user. Really encourages accountability and keeps the team engaged by allowing everyone is to ask questions and helps to provide clarity with small problem to prevent these snowballing into large problems. 
+3.	**Review key metrics**- Time to review measurable outcomes. E.g. Has this improved the performance/ 
+4.	**Review and revise product backlog** – This involve removing or adding user items to backlog in response to the demos if priorities have changed. The revise focuses on the next sprint meeting.
 
 ## Scrum Master vs Product Manager
 A scrum Master is essentially a non-technical project manager. Both focus on how they are going to get their work done. However, a product manager does this through time frames and reports on progress from a place of control in the traditional sense. A scrum master almost works as a team member by helping the team in collaborating and organisation. They also help in establishing communications between the product owners and developers and helps in focusing on getting task done.

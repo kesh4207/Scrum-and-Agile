@@ -4,7 +4,9 @@
 
 ### Scrum is a framework for getting work done, whilst agile is a mindset.
 
-Scrum is a framework to of put those agility principles into practice by allowing teams to work together. This is different from agile because this focuses on the behaviours required for scrum, like teamwork or solving short problems to achieve a longer-term goal. In short – agility is akin to the methodology to implement scrum. 
+Scrum is a framework to of put those agility principles into practice by allowing teams to work together. This is different from agile because this focuses on the behaviours required for scrum, like teamwork or solving short problems to achieve a longer-term goal. *In short – agility is akin to the methodology to implement scrum.*
+
+![image of agility](https://i.pinimg.com/originals/3b/06/72/3b06727081f439d551ae769fb5b598a0.jpg)
 
 ### Scrum framework is heuristic.
 

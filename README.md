@@ -14,11 +14,11 @@ This allows developers or engineers to break down problems into ‘sprints’, w
 Sprint planning is carrying out a meeting to form a sprint where you   decide on both the criteria and time-box of the sprint. Essentially, ‘Sprint planning kicks of a sprint by setting the agenda and the focus’. This is important because bad sprint planning can lead to unrealistic expectations and time-frames, which will prevent keeping the team motivated and focused. 
 
 The process involves:
-•	The What – Project owner describes goal and backlogs items that contribute to the sprint. The team also describes what contributions can be made during the splint  and their plans to achieve them. 
-•	The How- developer team negotiating with the project plan on what is required to achieve the goal.
-•	The Who- Project owner is needed to define the goal and values required. The Developer team is needed to understand if they can or cannot deliver the goal.
-•	The inputs- deciding on what is required for the sprint.
-•	The outputs- focusing on  the end goal and how they will work towards this. 
+1. The What – Project owner describes goal and backlogs items that contribute to the sprint. The team also describes what contributions can be made during the splint  and their plans to achieve them. 
+2. The How- developer team negotiating with the project plan on what is required to achieve the goal.
+3. The Who- Project owner is needed to define the goal and values required. The Developer team is needed to understand if they can or cannot deliver the goal.
+4. The inputs- deciding on what is required for the sprint.
+5. The outputs- focusing on  the end goal and how they will work towards this. 
 
 ### Meetings are crucial
 
@@ -38,10 +38,10 @@ Product backlog is prioritized list of work for the development team, where the 
 Teams roadmap and requirements provide foundation for the product backlog. Roadmap initiative are broken down into several epics and each epic has several requirement and user stories. Product owner uses user stories to produce a list for the development team. 
 The Prioritisation of backlog not done solely by the product owner, an effective one seeks input from their customers and development team to optimise workload and product delivery. Product owner is free to re-prioritise the backlog with added feedback.
 Product owner prioritization is influenced by;
-•	**Customer priorirty**
-•	**Implementation Complexity**
-•	**Urgency of getting feedback**
-•	**Symbiotic relationship between work items.**
+*	**Customer priorirty**
+*	**Implementation Complexity**
+*	**Urgency of getting feedback**
+*	**Symbiotic relationship between work items.**
 This keeps the team agile, as product owner are continuously updating this, and this is a reliable sharable source for all developers. This can help developer teams keep updates on the work items and gives team member complete clarity one what needs to be done. It allows for the team to challenge  the prioritizing of items  whereby, doing this fosters an environment where everyone  can both express their points and have the same mindset on the program.
 ### Let’s Review the Sprints!
  A time for individual members to show of their work and focus on their achievements. Allows them to present to the team their implementation and makes them feel good about themselves. This is a consensus of progress and achievements within the team. Demonstrate feature and orientate development team to doing things that add value.

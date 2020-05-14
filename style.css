@@ -8,6 +8,7 @@ body{
         #dae1e4);
     
     font-family: Comic Sans MS;
+    margin: 10%;
     
 }
 
@@ -26,6 +27,7 @@ img{
     
     width: 50%;
     height: 50%;
+    text-align: center;
     
 }
 #table
